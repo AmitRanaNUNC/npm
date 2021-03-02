@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Amit Rana",
+	"description": "sample for node js",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -11,5 +12,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
+	}
 }
